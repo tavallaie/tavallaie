@@ -1,4 +1,4 @@
-# Hi there, I'm Tavallaie! 👋
+# Hi there, I'm Ali Tavallaie! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with interests in AI, machine learning, and web development.
 
