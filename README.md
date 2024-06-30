@@ -15,9 +15,8 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in AI, m
 - Open Source Contributions
 
 ## GitHub Stats
-
-![Tavallaie's GitHub stats](https://github-readme-stats.vercel.app/api?username=tavallaie&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tavallaie&layout=compact&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=tavallaie&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=tavallaie&theme=onedark&title=MultiLanguage,Commits,PullRequest,Issues,Starts,Followers,Experience" alt="Trophy" />
+</p>
 
 Thanks for visiting my profile!
