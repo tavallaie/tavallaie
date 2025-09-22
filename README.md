@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with interests in AI, machine learning, and web development.
 
-![Github Stats](https://greptile-stats.vercel.app/api/widget/tavallaie/stats)
+![Github Stats](https://greptile-stats.vercel.app/api/widget/tavallaie/private-stats)
 ![Github Archetype](https://greptile-stats.vercel.app/api/widget/tavallaie/archtype)
 ## Skills
 
