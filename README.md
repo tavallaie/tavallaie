@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in AI, m
 ![Github Highlights](https://greptile-stats.vercel.app/api/widget/tavallaie/highlights)
 
 <p align="center">
-  <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=tavallaie&theme=onedark&title=MultiLanguage,LongTimeUser,Commits,PullRequest,Issues,Starts,Followers,Experience" alt="Trophy" />
+  <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=tavallaie&theme=onedark&title=MultiLanguage,LongTimeUser,Commits,PullRequest,Issues,Starts,Experience" alt="Trophy" />
 </p>
 
 Thanks for visiting my profile!
