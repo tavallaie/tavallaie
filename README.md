@@ -16,6 +16,8 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in AI, m
 - Web Development
 - Open Source Contributions
 
+
+[![An image of @tavallaie's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tavallaie)](https://holopin.io/@tavallaie)
 ## GitHub Stats
 ![Github Contributions](https://greptile-stats.vercel.app/api/widget/tavallaie/contributions)
 ![Github Highlights](https://greptile-stats.vercel.app/api/widget/tavallaie/highlights)
