@@ -33,7 +33,7 @@ jobs:
           base_skip: yes
           config_display: large
           config_octicon: yes
-          config_order: base.header, introduction,fortune,  notable, achievements, habits, base.metadata, base.repositories, base.activity+community,  topics, isocalendar ,activity 
+          config_order: header, introduction,fortune,  notable, achievements, habits, metadata, repositories, activity+community,  topics, isocalendar ,activity 
           config_timezone: Asia/Tehran
           config_twemoji: yes
           plugin_achievements: yes
