@@ -43,7 +43,7 @@ jobs:
           plugin_activity: yes
           plugin_activity_days: 7        
           plugin_activity_limit: 3
-          plugin_activity_filter: issue, pr, release, fork, review, push  
+          plugin_activity_filter: issue, pr, release, fork, review  
           plugin_activity_load: 300
           plugin_activity_visibility: all
           plugin_fortune: yes
@@ -66,7 +66,7 @@ jobs:
           plugin_notable_from: all
           plugin_notable_repositories: yes
           plugin_notable_self: yes
-          plugin_notable_types: commit,pull_request
+          plugin_notable_types: commit
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: starred
