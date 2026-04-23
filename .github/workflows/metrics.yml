@@ -65,8 +65,10 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_repositories: yes
-          plugin_notable_self: no
+          plugin_notable_self: yes
           plugin_notable_types: commit
+          plugin_notable_indepth: yes        # Enables deeper stats and badges
+          plugin_notable_filter: stars:>=5  # Filters to only repos with 5 or more stars
           plugin_notable_skipped: sshayanmfard-bit/gemini-telegram-bot-developed-by-soheil
           plugin_topics: yes
           plugin_topics_limit: 15
