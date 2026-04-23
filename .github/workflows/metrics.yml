@@ -65,7 +65,8 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_repositories: yes
-          plugin_notable_types: commit
+          plugin_notable_self: yes
+          plugin_notable_types: commit,pull_request
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: starred
