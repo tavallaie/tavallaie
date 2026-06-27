@@ -351,7 +351,7 @@
                         </svg>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="3.3387123606721008 329"/>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="3.3381570192947434 329"/>
                             <text x="15" y="15" dominant-baseline="central">61</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -770,7 +770,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 58.8k out of 224m users</span>
+                                    <span class="gh">ranked 58.7k out of 224m users</span>
                                 </div>
                                 <div class="text">Followed by 235 users</div>
                             </div>
@@ -1173,7 +1173,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Jun 2026, 01:57:20 (timezone Asia/Tehran) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 28 Jun 2026, 02:57:20 (timezone Asia/Tehran) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
