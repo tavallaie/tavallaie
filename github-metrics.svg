@@ -687,7 +687,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 12.1k out of 339m repositories</span>
+                                    <span class="gh">ranked 12.1k out of 340m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5082 stars</div>
                             </div>
@@ -770,7 +770,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 57.8k out of 239m users</span>
+                                    <span class="gh">ranked 57.9k out of 239m users</span>
                                 </div>
                                 <div class="text">Followed by 243 users</div>
                             </div>
@@ -1213,7 +1213,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Aug 2026, 11:51:08 (timezone Asia/Tehran) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 13 Aug 2026, 13:34:05 (timezone Asia/Tehran) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
