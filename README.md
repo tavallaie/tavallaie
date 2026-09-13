@@ -1,6 +1,6 @@
 # Hi there, I'm Ali Tavallaie 👋
 
-Software engineer working at the intersection of **AI, data infrastructure, and the Postgres ecosystem** — currently building cool stuff at [ravand-ai](https://ravandai.com). On GitHub since 2014, with 500+ contributions across open source. I write at [techbend.dev](https://techbend.dev).
+Software engineer working at the intersection of **AI, data infrastructure, and the Postgres ecosystem** — currently building cool stuff at [RavandAI](https://ravandai.com). On GitHub since 2014, with 500+ contributions across open source. I write at [techbend.dev](https://techbend.dev).
 
 [![Sponsor me on GitHub](https://img.shields.io/badge/Sponsor-❤-ea4aaa?logo=github-sponsors)](https://github.com/sponsors/tavallaie)
 
