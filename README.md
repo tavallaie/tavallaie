@@ -27,12 +27,6 @@ Software engineer working on **AI, data infrastructure, and the Postgres ecosyst
 | [trunco](https://github.com/tavallaie/trunco) | Python framework for dynamic UIs with HTMX |
 | [pychartjs](https://github.com/tavallaie/pychartjs) | Python wrapper for Chart.js |
 
-## Skills
-
-- **Languages**: Python, Rust, JavaScript/TypeScript, SQL
-- **Frameworks**: Django, Flask, FastAPI, HTMX
-- **Data & Infra**: Postgres, Docker, Kubernetes, GitOps
-
 ## GitHub Stats
 
 ![Metrics](https://raw.githubusercontent.com/tavallaie/tavallaie/master/github-metrics.svg)
