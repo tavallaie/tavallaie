@@ -11,6 +11,10 @@ Software engineer working at the intersection of **AI, data infrastructure, and 
 - Working on speech and audio: [Hugging Face speech-to-speech](https://github.com/huggingface/speech-to-speech) voice agents, [Perth](https://github.com/resemble-ai/Perth) audio watermarking, [neutts](https://github.com/neuphonic/neutts) on-device TTS, and [wikiwaves](https://github.com/tavallaie/wikiwaves).
 - Diversity & Inclusion member of the [**Python Software Foundation**](https://diversity.python.org).
 
+## Teaching & Community
+
+- Part of [PyTeach](https://pyteach.me/), where 8,000+ students are learning programming — including nearly 2,000 students aged 12–20 who earned certificates through the Stanford Data Ocean program.
+
 ## Things I've Built
 
 | Project | What it does |
