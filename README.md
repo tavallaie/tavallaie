@@ -29,15 +29,9 @@ Software engineer working on **AI, data infrastructure, and the Postgres ecosyst
 
 ## Skills
 
-- **Programming Languages**: Python, JavaScript, HTML, CSS
-- **Frameworks**: Flask, Django, HTMX
-- **Tools**: Docker, GitOps, Kubernetes
-
-## Interests
-
-- AI and Machine Learning
-- Postgres and Data Infrastructure
-- Open Source Contributions
+- **Languages**: Python, Rust, JavaScript/TypeScript, SQL
+- **Frameworks**: Django, Flask, FastAPI, HTMX
+- **Data & Infra**: Postgres, Docker, Kubernetes, GitOps
 
 ## GitHub Stats
 
