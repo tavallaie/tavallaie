@@ -19,6 +19,7 @@ Software engineer working on **AI, data infrastructure, and the Postgres ecosyst
 
 | Project | What it does |
 | --- | --- |
+| [open-gptlive-poc](https://github.com/tavallaie/open-gptlive-poc) | Local GPT-Live voice assistant you talk to in the browser |
 | [pyreveal](https://github.com/tavallaie/pyreveal) | Generate Reveal.js presentations from Python |
 | [DjangoWiz](https://github.com/tavallaie/DjangoWiz) | Automate key components of Django projects |
 | [transmutate](https://github.com/tavallaie/transmutate) | Transform and serialize data models into clean schemas |
